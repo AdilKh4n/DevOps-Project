@@ -1,9 +1,10 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>USERNAME-lab5</artifactId>
+  <groupId>ca</groupId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <artifactId>Hello</artifactId>
+ 
 
   <properties>
     <maven.compiler.source>7</maven.compiler.source>
