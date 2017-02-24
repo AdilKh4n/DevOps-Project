@@ -9,7 +9,7 @@ public class TestBankAccount {
   public void testDebitwithSuff()
   {
     BankAccount acct = new BankAccount(10);
-    double amt = account.debit(5);
+    double amt = acct.debit(5);
     Assert.assertEquals(5.0,amt); 
   }
 
