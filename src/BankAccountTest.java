@@ -10,7 +10,7 @@ public class TestBankAccount {
   {
     BankAccount acct = new BankAccount(10);
     double amt = account.debit(5);
-    Assert.assertEquals(5.0,amount); 
+    Assert.assertEquals(5.0,amt); 
   }
 
 }
