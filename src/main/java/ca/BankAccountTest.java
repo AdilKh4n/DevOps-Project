@@ -1,4 +1,4 @@
-package ca.uwo.csd.cs2212.USERNAME;
+package ca;
 
 import junit.framework.Assert;
 import org.junit.Before;
