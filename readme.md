@@ -4,6 +4,9 @@ This project deals with:
 
 ·  Provide the framework to enable running unit tests. Showed case for few simple use cases and prove that it can be used for most of the use cases 
 
+Followed this tutorial:
+https://www.youtube.com/watch?v=1JSOGJQAhtE&t=6s
+
 Steps:
 1) Setup Amazon EC2 instance on AWS.
 2) Setup Apache, Jenkins on the server.
